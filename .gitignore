@@ -14,7 +14,7 @@ sysinfo.txt
 *.pidb.meta
 
 # Visual Studio 2015 cache directory
-/.vs/
+.vs/
 
 ###
 # VS/MD solution and project files
