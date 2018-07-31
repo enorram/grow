@@ -1,1 +1,3 @@
-# grow
+# Grow
+
+A little game
