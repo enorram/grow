@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class GridMarker : MonoBehaviour {
 
+    public int xGridPosition;
+
+    public int yGridPosition;
+
+    public GameObject obj;
 	// Use this for initialization
 	void Start () {
 		
